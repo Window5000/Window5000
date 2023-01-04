@@ -8,9 +8,9 @@
 
 - ⚡ Fun fact **I am a collaborator on [CityWideMC](https://github.com/CityWideMC)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Window5000&count_private=true&include_all_commits=true)
 
