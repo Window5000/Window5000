@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **Discord! -> [Window2#9497](https://discord.com/users/953369091975024735)**
 
-- ⚡ Fun fact **I am a collaborator on [Lab Games]([https://github.com/CityWideMC](https://github.com/LabMCGames))**
+- ⚡ Fun fact **I am a collaborator on [Lab Games](https://github.com/LabMCGames)**
 
 </p>
 
