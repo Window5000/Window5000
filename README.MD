@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Window5</h1>
 
-- 🔭 I’m currently working on **[DotCreator](https://github.com/Window5000/DotCreator)**
+- 🔭 I’m currently working on **[HypeJet](https://github.com/HypeJet)**
 
 - 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **Discord! -> [Window2#9497](https://discord.com/users/953369091975024735)**
 
-- ⚡ Fun fact **I am a collaborator on [CityWideNC](https://github.com/CityWideMC)**
+- ⚡ Fun fact **I am a collaborator on [HypeJet Network](https://github.com/HypeJet)**
 
 </p>
 
