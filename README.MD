@@ -14,4 +14,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Window5000&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Window5000&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Window5000&layout=compact&langs_count=8&exclude_repo=window5000.github.io)](https://github.com/anuraghazra/github-readme-stats)
